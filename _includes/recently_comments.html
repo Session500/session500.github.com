@@ -1,0 +1,9 @@
+<section>
+  <h4>Recently Comments</h4>
+  {% if site.comments.disqus.name %}
+    <ul id="RecentComments" class="dsq-widget">
+    <script type="text/javascript" src="http://{{site.comments.disqus.name}}.disqus.com/recent_comments_widget.js?num_items={{ site.comments.disqus.rcomments.num }}&hide_mods={{ site.comments.disqus.rcomments.hide_mods }}&hide_avatars={{ site.comments.disqus.rcomments.hide_avatars }}&avatar_size={{ site.comments.disqus.rcomments.avatar_size }}&excerpt_length={{ site.comments.disqus.rcomments.excerpt_length }}"></script>
+    </ul>
+  {% endif %}
+</section>
+

@@ -1,0 +1,117 @@
+body {
+  font-family: "Ubuntu Mono", Monaco, "Segoe UI", Consolas, "PingFang SC","Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  line-height: 1.42;
+}
+
+.article-title {
+  border-bottom:1px dashed;
+  margin-top:30px;
+  margin-bottom:20px;
+  padding-bottom:5px;
+}
+
+.wrapper pre {
+  padding: 12px;
+  border-radius: 3px;
+  background: rgb(246, 248, 250);
+  word-wrap:normal;
+  word-break:normal;
+  overflow: visible !important;
+  position: relative !important;
+}
+
+.wrapper pre code{
+  font-size: 90%;
+}
+
+#toTop {
+  width:32px;
+  height:48px;
+  background:#555;
+  background:rgba(185,185,185,0.3);
+  position:fixed;
+  bottom:80px;
+  right:18px;
+  text-align:center;
+  cursor:pointer;
+  display:none
+}
+
+#toTop a {
+  display:block;
+  width:32px;
+  height:24px;
+  font-size:20px;
+  line-height:24px;
+  color: rgba(0,153,153,0.5);
+  text-decoration:none;
+  background:0
+}
+
+#toTop a:hover {
+  color: rgba(0,153,153,0.9);
+}
+
+.post-date{
+  float:right;
+  padding:5px;
+  font-size:13px;
+}
+
+.tags-xs {
+  padding: 1px 5px;
+  font-size: 12px;
+  line-height: 1.5;
+  border-radius: 3px;
+}
+
+.tags-default {
+  color: #017e66;
+  background-color: #E7F2ED;
+  border-color: #E7F2ED;
+}
+
+.tags {
+  display: inline-block;
+  padding: 0px 0px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+.tags:hover,
+.tags:focus,
+.tags:active {
+  color: #fff;
+  background-color: #017e66;
+  text-decoration: none;
+}
+
+.wrapper .tag-box {
+  display:table;
+  list-style:none outside none
+}
+.wrapper .tag-box li {
+  line-height:1.8;
+  display:inline-block;
+  margin:0 3px
+}
+.wrapper .tag-box li a {
+  padding:2px 4px;
+  background-color:#fefbf3;
+  border-radius:4px
+}
