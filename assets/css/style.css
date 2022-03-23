@@ -24,6 +24,10 @@ body {
   font-size: 90%;
 }
 
+.highlight {
+  white-space: pre-wrap;
+}
+
 #toTop {
   width:32px;
   height:48px;
