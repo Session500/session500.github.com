@@ -28,6 +28,11 @@ body {
   white-space: pre-wrap;
 }
 
+.img {
+  display: block;
+	margin: 0 auto;
+}
+
 #toTop {
   width:32px;
   height:48px;
