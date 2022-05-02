@@ -167,11 +167,31 @@ tags: []
 
 ![img](../assets/images/z2pb8zbvgf0y.png_760w.jpeg)
 
+属于次新，4层仓
+
+<img src="../assets/images/image-20220425123353005.png" alt="image-20220425123353005" style="zoom: 67%;" />
+
+<img src="../assets/images/image-20220425123743003.png" alt="image-20220425123743003" style="zoom:67%;" />
+
 ---
 
 2018-08-02 15:05
 
+
+
 ![img](../assets/images/vgfhgmpttg0y.png_760w.jpeg)
+
+
+
+<img src="../assets/images/image-20220425124407223.png" alt="image-20220425124407223" style="zoom:67%;" />
+
+<img src="../assets/images/image-20220425124511885.png" alt="image-20220425124511885" style="zoom:67%;" />
+
+在地板买入，不过第二天跌了
+
+<img src="../assets/images/image-20220425124639248.png" alt="image-20220425124639248" style="zoom:50%;" />
+
+
 
 ---
 
@@ -189,17 +209,39 @@ tags: []
 
 2018-08-09 17:07
 
+
+
 ![img](../assets/images/drill0qdq4mn.png_760w.jpeg)
+
+<img src="../assets/images/image-20220425124924295.png" alt="image-20220425124924295" style="zoom:50%;" />
+
+<img src="../assets/images/image-20220425125317628.png" alt="image-20220425125317628" style="zoom:50%;" />
+
+满仓打板焦点科技
+
+
 
 ---
 
 2018-08-10 20:05
 
+继续持有焦点科技
+
 ![img](../assets/images/md0jsuuwqo1y.png_760w.jpeg)
+
+<img src="../assets/images/image-20220425125621018.png" alt="image-20220425125621018" style="zoom:50%;" />
+
+第二天行情不好卖出
+
+
 
 ---
 
 2018-08-15 15:01
+
+
+
+
 
 ![img](../assets/images/1soeh30xg5t2.png_760w.jpeg)
 
@@ -266,21 +308,37 @@ tags: []
 
 2019-03-13 15:02
 
+
+
 ![img](../assets/images/o1gfdejh2r1q.png_760w.jpeg)
+
+<img src="../assets/images/image-20220425130712310.png" alt="image-20220425130712310" style="zoom:50%;" />
+
+满仓福莱特
 
 ---
 
 2019-03-14 15:09
 
+卖出福莱特
+
 ![img](../assets/images/brju5k051vsr.png_760w.jpeg)
 
+<img src="../assets/images/image-20220425131210498.png" alt="image-20220425131210498" style="zoom:50%;" />
 
+低吸，满仓
 
 ---
 
 2019-03-15 15:01
 
+
+
 ![img](../assets/images/nnolrag98sx3.png_760w.jpeg)
+
+
+
+
 
 ---
 
